@@ -67,3 +67,29 @@ dbutils.fs.mount(
         "fs.azure.account.key.<storageaccount>.blob.core.windows.net": "<your-access-key>"
     }
 )
+
+# Azure Data Pipeline Project
+
+## 💾 Output
+The cleaned data is saved to:
+
+## ▶️ How to Run
+
+1. Set up your Azure SQL and Blob Storage credentials.
+2. Upload the script to Databricks.
+3. Run each cell sequentially to execute the pipeline.
+
+---
+
+## 🧠 Author
+
+**Abdur-Rasheed Adeoye**  
+Commercial Analyst | Data Scientist | Bioinformatics Enthusiast
+
+---
+
+## 📬 Contact
+
+For questions or collaborations, feel free to reach out via:
+- [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)
+- [GitHub](https://github.com/Abdur-RasheedAde)
