@@ -1,5 +1,13 @@
 # 🚀 Azure Project End-to-End Pipeline
 
+## 🧠 **Author** Abdur-Rasheed Abiodun Adeoye  
+Data Analyst | Data Scientist | Bioinformatics Enthusiast   
+**Date:** August 2025  
+**Domain:** Bioinformatics, Cheminformatics, Drug Discovery  
+**Tools & Libraries:** Python, RDKit, PaDEL-Descriptor, Scikit-learn, Seaborn, LazyPredict, ChEMBL Web Services   
+**Contacts:** - [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)
+              - [GitHub](https://github.com/Abdur-RasheedAde)
+
 This repository contains a complete data engineering pipeline using **Azure SQL Database**, **Apache Spark**, and **Azure Blob Storage** within a Databricks environment. The project demonstrates how to ingest, clean, transform, and store retail outlet data in a scalable and cloud-based architecture.
 
 ---
