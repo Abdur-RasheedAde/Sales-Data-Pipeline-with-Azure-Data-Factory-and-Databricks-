@@ -68,8 +68,7 @@ dbutils.fs.mount(
     }
 )
 
-# Azure Data Pipeline Project
-
+---
 ## 💾 Output
 The cleaned data is saved to:
 
